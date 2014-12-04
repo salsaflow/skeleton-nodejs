@@ -1,4 +1,4 @@
-# skeleton-nodejs-basic #
+# SalsaFlow Skeleton for Node.js #
 
 Basic SalsaFlow bootstrapping skeleton for Node.js projects
 
